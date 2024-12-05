@@ -1,0 +1,229 @@
+[
+  {
+    "Experience": [
+      {
+        "Company": "Professional Development in Computer and Information Systems",
+        "Website": "https://www.douglascollege.ca/program/pbdcis",
+        "Description": "Currently pursuing a full-time Postgraduate Diploma in Computer and Information Systems at Douglas College, with a focus on Emerging Technologies, to further enhance my expertise and prepare for new challenges in the field.",
+        "Location": "Location: Greater Vancouver, British Columbia, Canada",
+        "Period": "Jan 2023 to Dec 2024"
+      },
+      {
+        "Company": "Autotrac Telecommunications",
+        "Website": "https://www.linkedin.com/company/autotracbr",
+        "Description": "Founded in 1994, It is a Brazilian telecommunications company that specializes in fleet management and vehicle tracking solutions through GPS and mobile communication (LTE and satellite technology). Serving more than 40,000 customers – extending from big enterprises to small businesses – across a wide range of industries.",
+        "Shareholders": "Shareholders include Nelson Piquet, a businessman and three-time Formula 1 World Champion, as well as the U.S.-based company Omnitracs LLC.",
+        "Location": "Location: Headquartered in Brasília (Brazil), with 60+ authorized branches distributed across Brazil and Argentina. Size: ",
+        "Size": "500+ employees",
+        "Period": "Aug 2002 to Nov 2022",
+        "JobPosition": [
+          {
+            "Title": "Project Manager",
+            "Period": "Oct 2014 to Nov 2022",
+            "Skills": "Satellite Communications, Software as a Service (SaaS), Data Integration, Wireless Networking, Internet of Things (IoT), Mobile Applications, Business Process, Mobile Communications, Telematics, Field Service Management, Cloud Services",
+            "Duties": [
+              "Led the deployment of telematics solutions in transportation and energy sectors, integrating cloud-native platforms and edge computing to optimize fleet performance.",
+              "Conducted cloud-based SaaS deployments, managing API integrations and secure network provisioning to enhance system reliability.",
+              "Transitioned telematics systems to a hybrid architecture utilizing LTE-M and satellite communication, optimizing operational costs and boosting performance.",
+              "Managed cross-functional teams to design mobile utility solutions for electric power distribution, including Android applications, on-board computing, hybrid communication (LTE, Wi-Fi, Satellite), and cloud computing integration.",
+              "Collaborated with teams to define and prioritize the product roadmap, focusing on cloud scalability to reduce infrastructure costs and improve user experience.",
+              "Led vertical growth by aligning cloud optimization strategies with customer needs and market trends, driving innovation and enhancing client satisfaction.",
+              "Managed two employees directly, conducting daily tasks, providing coaching, and evaluating performance to achieve company goals."
+            ]
+          },
+          {
+            "Title": "Product Portfolio Manager",
+            "Period": "Aug 2008 to Sep 2014",
+            "Skills": "Internet of Things (IoT), Telematics, Cloud Services, Technical Support, Software as a Service (SaaS), Mobile Communications, Satellite Communications, Data Integration",
+            "Duties": [
+              "Led the deployment of cloud-native telematics solutions, ensuring secure integration and API development for scalable service models.",
+              "Implemented cloud-based SaaS models, standardizing infrastructure for telematics systems and enhancing service delivery efficiency.",
+              "Managed the migration of platforms from client-server to cloud architectures, optimizing resource allocation and reducing operational costs.",
+              "Enhanced customer experience by continuously optimizing cloud service performance and driving innovative product development.",
+              "Oversaw the annual budget, including planning, team coordination, resource management, third-party vendors, and reporting. Ensured cost predictability through cost forecasting, vendor management, and presenting budget variance reports (actual vs. forecasted) to senior management for decision-making."
+            ]
+          },
+          {
+            "Title": "Product Development Supervisor",
+            "Period": "Jul 2007 to Aug 2008",
+            "Skills": "Product Management, Web Applications, Mobile Applications, Digital Transformation, Dispatch System Development, Prototyping and Iterative Design, Product Strategy and Roadmap Development, Cross-functional Team Leadership",
+            "Duties": [
+              "Developed a cloud-enabled dispatch system tailored for public service sectors, improving real-time data integration and system performance.",
+              "Led cross-functional teams to align cloud-based solutions with business and technical requirements, driving innovation across mobile and web applications.",
+              "Conducted cloud performance assessments and optimized resource allocation, resulting in improved product launch outcomes and increased operational efficiency.",
+              "Managed the annual budget, including planning, team coordination, resources, third-party vendors, and reporting, ensuring cost predictability and making recommendations for decision-making to senior management.",
+              "Performed investment analysis for product roadmaps, including revenue projections, financial feasibility studies, risk assessments, business model evaluation, cost analysis, project phases, and break-even analysis to inform strategic decisions."
+            ]
+          },
+          {
+            "Title": "Technical Support Analyst",
+            "Period": "Aug 2002 to Aug 2007",
+            "Skills": "Microsoft SQL Server, Windows Server, Networking, Technical Support, Software Integration, System Deployment and Configuration, Customer Training and Support",
+            "Duties": [
+              "Delivered expert technical support for a telematics systems provider, assisting customers with technical issues, software integration, and system implementation.",
+              "Managed the deployment and configuration of telematics solutions, ensuring seamless integration with existing infrastructure.",
+              "Provided comprehensive training to customers on system usage and best practices, enhancing their ability to effectively utilize the telematics platform.",
+              "Collaborated with cross-functional teams to resolve complex issues, optimize system performance, and support ongoing product improvements.",
+              "Demonstrated strong problem-solving skills and a customer-focused approach, contributing to high levels of customer satisfaction and successful implementation of telematics solutions."
+            ]
+          }
+        ]
+      },
+      {
+        "Company": "FCA Fiat Chrysler Automobiles",
+        "Website": "https://www.fcagroup.com",
+        "Description": "FCA Group is now Stellantis, one of the world's leading automakers and a mobility provider.",
+        "Shareholders": "Sharedholders: Exor N.V. Peugeot and other investors",
+        "Location": "Location: Greater Belo Horizonte, MG, Brazil. Size: ",
+        "Size": "15,000+ employees",
+        "Period": "Jan 1998 to Jul 2002",
+        "JobPosition": [
+          {
+            "Title": "IT Professional",
+            "Period": "Jan 1998 to Jul 2002",
+            "Skills": "Networking, Technical Support, Windows Server",
+            "Duties": [
+              "Provided technical support for desktop systems, applications, and network infrastructure in the IT department.",
+              "Assisted end-users with troubleshooting hardware and software issues, ensuring minimal downtime and high customer satisfaction.",
+              "Collaborated with senior IT staff to manage and maintain network infrastructure, including routers, switches, and cabling, to ensure stable and secure connectivity.",
+              "Collaborated with senior IT staff to deploy and update software applications and maintain an inventory of IT assets.",
+              "Gained hands-on experience in IT service management and developed a strong foundation in technical problem-solving and customer service."
+            ]
+          }
+        ]
+      }
+    ],
+    "Education": [
+      {
+        "Title": "Post-Baccalaureate Diploma, Computer and Information Systems - Emerging Technology",
+        "Period": "Jan 2023 to Dec 2024",
+        "Institution": "Douglas College, New Westminster, BC, Canada",
+        "InstitutionURL": "https://www.douglascollege.ca",
+        "Description": "...",
+        "Skills": "Full-Stack Development, Mobile Development, Software Engineer, Artificial Intelligence, NLP, Cloud Computing, Virtualization and Networking",
+        "KeyProjects": [
+          {
+            "Title": "AI on the Road",
+            "Skills": [
+              "Vertex AI (GCP)",
+              "Machine Learning",
+              "Convolutional Neural Network (CNN)",
+              "Android Development",
+              "Computer Vision (Google Vision API)",
+              "Java",
+              "SQL Database"
+            ],
+            "Description": "AI-powered application designed to enhance road safety by monitoring driver behavior and fatigue.",
+            "ProjectUrl": "https://prezi.com/view/qzsEXKrSOzPw2mVOSUZy/",
+            "ProjectImg": "aiRoadImg"
+          },
+          {
+            "Title": "Truck Driver",
+            "Skills": [
+              "Android Development",
+              "Java",
+              "Google Maps API",
+              "SQL Database"
+            ],
+            "Description": "Mobile application designed to help truck owner operators get better freight by connecting them with carriers, wholesalers and retailers.",
+            "ProjectUrl": "https://prezi.com/view/t0hylQ7YaSPBOgy6qSr2/",
+            "ProjectImg": "truckdriverImg"
+          },
+          {
+            "Title": "Wine Warehouse",
+            "Skills": [
+              "AWS EC2",
+              "Pyhton/Flask",
+              "MongoDB",
+              "Android Development",
+              "Kotlin"
+            ],
+            "Description": "The Wine Warehouse system is an innovative solution tailored to optimize warehouse operations and elevate user experiences for both administrators and customers. It provides administrators with powerful tools, including real-time inventory tracking, product management, and comprehensive financial and sales reporting. Customers benefit from an intuitive mobile app that allows for effortless product browsing, availability checks, and seamless order placement, ensuring a smooth and efficient experience for all stakeholders.",
+            "ProjectUrl": "https://youtu.be/lcGOH7oFIBo",
+            "ProjectImg": "winewarehouseImg"
+          },
+          {
+            "Title": "Daily Care AI",
+            "Skills": [
+              "Android Development",
+              "Machine Learning",
+              "Computer Vision (Google Vision API)",
+              "Java",
+              "SQL Database"
+            ],
+            "Description": "Using artificial intelligence, Daily Care AI aims to contribute to people's health and well-being by offering a rapid and reliable health check based on a convenient scanning of a few aspects of the patient’s face.",
+            "ProjectUrl": "https://github.com/EltonHOEvangelista/dailycareai",
+            "ProjectImg": "dailycareImg"
+          },
+          {
+            "Title": "Bear Chefs",
+            "Skills": [
+              "Software Engineering",
+              "Web Development",
+              "PHP",
+              "MySQL",
+              "HTML",
+              "CSS",
+              "Cloud Deployment",
+              "Google Cloud Platform (GCP)",
+              "Cloud Load Balancing",
+              "DNS"
+            ],
+            "Description": "A web platform connecting culinary talents, including culinary graduates, with high cuisine enthusiasts. It offers a marketplace to book private dining experiences, cooking classes, and more, while providing chefs opportunities for practical experience and exposure in the industry.",
+            "ProjectUrl": "https://github.com/EltonHOEvangelista/bearchefs",
+            "ProjectImg": "bearchefsImg"
+          },
+          {
+            "Title": "Auto Marketplace",
+            "Skills": [
+              "Web Application",
+              "Node JS and Express",
+              "React Vite",
+              "MongoDB",
+              "Cloud Deployment"
+            ],
+            "Description": "The Auto Marketplace is a MERN stack-based car auction platform. It allows users to list vehicles, view details, place bids, and search for cars. The project showcases the integration of a NoSQL database with a modern JavaScript frontend and backend for a seamless user experience.",
+            "ProjectUrl": "https://auto-marketplace.vercel.app",
+            "ProjectImg": "automImg"
+          },
+          {
+            "Title": "Home HandShake",
+            "Skills": [
+              "UX Design",
+              "Figma",
+              "Prototyping",
+              "Usability Testing"
+            ],
+            "Description": "Home Handshake is an all-in-one platform designed to revolutionize the rental experience, providing a seamless and user-centric solution for tenants, landlords, and those seeking shared accommodations.",
+            "ProjectUrl": "https://www.figma.com/proto/zMdeuvy4obxOgcPoqulN3l/W24_3375_S1_G1_HomeHandShake?node-id=35-252&t=ZfRB15vwOMG4Nvv1-1",
+            "ProjectImg": "handShakeImg"
+          }
+        ]
+      },
+      {
+        "Title": "Master of Business Administration (Executive MBA)",
+        "Period": "May 2011 to Dec 2012",
+        "Institution": "Fundação Dom Cabral (FDC), Nova Lima, MG, Brazil",
+        "InstitutionURL": "https://www.fdc.org.br/en",
+        "Description": "FDC is among the Top-10 schools in the world in the Financial Times Executive Education Rankings 2024. (https://rankings.ft.com/rankings/2956/executive-education-open-2024)",
+        "Skills": "Strategic and Results-Oriented Focus,  Ethical Decision Making, Global Business Management, Leadership and Visionary Thinking, Advanced Business Analysis and Problem-Solving"
+      },
+      {
+        "Title": "Post Graduation, Information Technology Applied to Business Strategic Management",
+        "Period": "Aug 2004 to Dec 2005",
+        "Institution": "Fundação Getúlio Vargas (FGV), Belo Horizonte, MG, Brazil",
+        "InstitutionURL": "https://portal.fgv.br/en",
+        "Description": "...",
+        "Skills": "Strategic IT Management, IT Alignment with Business Goals, Data-driven Decision Making, Innovation and Technology Trends, Technology Integration and Implementation"
+      },
+      {
+        "Title": "Bachelor’s Degree, Information Systems Administration",
+        "Period": "Aug 1997 to Jun 2002",
+        "Institution": "Centro Universitario UNA, Belo Horizonte, MG, Brazil",
+        "InstitutionURL": "https://www.una.br",
+        "Description": "...",
+        "Skills": "System Analysis and Design, Software Development, Network Administration and Project Management"
+      }
+    ]
+  }
+]

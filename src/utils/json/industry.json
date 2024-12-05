@@ -1,0 +1,27 @@
+[
+  {
+    "Title": "Trucking Industry",
+    "Description": "Led the deployment of cloud-native telematics solutions, ensuring secure integration and API development for scalable service models.",
+    "IndustryImg": "TruckingImg"
+  },
+  {
+    "Title": "Freight Rail",
+    "Description": "Transitioned telematics systems to a hybrid architecture utilizing LTE-M and satellite communication, optimizing operational costs and boosting performance.",
+    "IndustryImg": "RailImg"
+  },
+  {
+    "Title": "Heavy Equipment (Construction Machinery)",
+    "Description": "Led the deployment of telematics products for the heavy equipment industry, providing real-time monitoring and telemetry solutions for construction machinery.",
+    "IndustryImg": "ConstructionMachineryImg"
+  },
+  {
+    "Title": "Automotive Industry (OEM & Aftermarket)",
+    "Description": "Collaborated with cross-functional teams to deploy OEM telematics products for the automotive industry, enabling enhanced truck connectivity, real-time diagnostics and remote monitoring.",
+    "IndustryImg": "AutomotiveImg"
+  },
+  {
+    "Title": "Electric Utility (Distribution)",
+    "Description": "Collaborated with engineering leaders to design a comprehensive location, communication, and dispatch system for the energy sector. This solution integrated vehicle-embedded hardware (mobile communication and location terminal interfacing with an Android device), hybrid communication services (cellular and satellite), and a Software as a Service (SaaS) platform, enhancing operational efficiency for electricity distribution companies by optimizing field team coordination.",
+    "IndustryImg": "UtilityImg"
+  }
+]
